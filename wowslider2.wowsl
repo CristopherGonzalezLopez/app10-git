@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>26</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wowslider2</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/megalopolis/</ImageTemplate>
+            <ImageTemplateName>Megalopolis</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/DAM/TERCER PARCIAL/aplicaciones/app10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/DAM/TERCER PARCIAL/aplicaciones/app10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Tenor Sans</TemplateFont>
+            <TemplateName>megalopolis</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/salones.jpg</url>
+                <title>salones</title>
+                <filesize>435454</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/salones2.jpg</url>
+                <title>salones2</title>
+                <filesize>11393</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/salones4.jpg</url>
+                <title>salones4</title>
+                <filesize>44942</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/techado.jpg</url>
+                <title>techado</title>
+                <filesize>272052</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/techado2.jpg</url>
+                <title>techado2</title>
+                <filesize>397786</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/dgeti.jpg</url>
+                <title>dgeti</title>
+                <filesize>20211</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/entrada.jpg</url>
+                <title>entrada</title>
+                <filesize>279165</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/entrada2.jpg</url>
+                <title>entrada2</title>
+                <filesize>28523</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/TERCER PARCIAL/aplicaciones/app10/imagenes/entrada3.jpg</url>
+                <title>entrada3</title>
+                <filesize>320378</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
